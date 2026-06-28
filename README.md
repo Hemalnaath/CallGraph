@@ -1,4 +1,4 @@
-# generate-call-graph skill
+# Skill: generate-call-graph
 
 A **language-agnostic** Claude Code skill that builds the as-is, evidence-grounded call graph for one entry-point (operation) of one service.
 
